@@ -4,10 +4,10 @@ In this Repo, I built Counter example by React, Redux(old, new), React-Hook, Rea
 ---
 ### Folder Name: Definition
 
-- `react-context`: Used React Context
-- `react-hook`: Used React Hook
-- `react-hook-useReducer`: Used React Hook `useReducer`
-- `react-typescript`: Used Typescript in React
-- `reactv`: Used Only React
-- `redux-createslice`: Used Redux using createSlice (New Way)
-- `reduxv`: Used Redux (Old Way)
+- `React_hook_useReducer`: Used React Hook `useReducer`
+- `React_version`: Used Only React
+- `React-context`: Used React Context
+- `React-hook`: Used React Hook
+- `React-typescript`: Used Typescript in React
+- `Redux_createslice`: Used Redux using createSlice (New Way)
+- `Redux_version`: Used Redux (Old Way)
